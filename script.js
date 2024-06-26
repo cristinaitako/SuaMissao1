@@ -5,9 +5,9 @@ const caixaAlternativas= document.querySelector(".caixa-alternativas");
 const caixaResultado = document.querySelector(".caixa-resultado");
 const textoResultado = document.querySelector(".texto-resultado");
 
-const perguntas = [Em sua cidade ocorrem assédios e desrespeitos às mulheres e aos assentos prioritários?
+const perguntas = [
     {
-        enunciado: "Pergunta1", 
+        enunciado: "Em sua cidade ocorrem assédios e desrespeitos às mulheres e aos assentos prioritários?", 
         alternativas: [ 
             "alternativa1",
             "alternativa2"
