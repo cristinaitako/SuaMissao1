@@ -9,18 +9,23 @@ const perguntas = [
     {
         enunciado: "Em sua cidade ocorrem assédios e desrespeitos às mulheres e aos assentos prioritários?", 
         alternativas: [ 
-            "Há um impacto muito grande no meio ambiente, causando prejuízos ao solo, água e atmosfera.",
-             "A produção das espécies  é maior, reduz o controle de pragas, aumenta a distribuição da produção."
-
-        ]
+       {
+        texto:  "Não, porque às leis não sao cumpridas.",
+        afirmacao: "Há deficiencia no sistema de fiscalização."
+        },
+        {
+         texto:"Há um impacto muito grande no meio ambiente, causando prejuizos ao ."
     }
-]
-const perguntas = [
+     ]
+    },
     {
-        enunciado: "Pergunta2",
-        alternativas: [
-            "alternativa1",
-            "alternativa2"
+       }
+           ];
+    {
+         enunciado: "Pergunta2",
+         alternativas: [
+           texto: "alternativa1",
+           afirmacao: "alternativa2"
         ]
     }
 ]
@@ -28,8 +33,8 @@ const perguntas = [
     enunciado: "Pergunta3",
     alternativas:[
         {
-            "alternativa1",
-            "alternativa2"
+        texto: "alternativa1",
+         afirmacao: "alternativa2"
         }
     ]
 ]
