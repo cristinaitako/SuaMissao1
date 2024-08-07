@@ -15,17 +15,7 @@ const perguntas = [
         },
         {
          texto:"Há um impacto muito grande no meio ambiente, causando prejuizos ao ."
-    }
-     ]
-    },
-    {
-       }
-           ];
-    {
-         enunciado: "Pergunta2",
-         alternativas: [
-           texto: "alternativa1",
-           afirmacao: "alternativa2"
+         afirmacao: "alternativa2"
         ]
     }
 ]
